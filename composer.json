@@ -1,6 +1,6 @@
 {
     "name": "bshaffer/oauth2-server-php",
-    "description":"OAuth2 Server for PHP",
+    "description":"OAuth2 Server for PHP test in my fork",
     "keywords":["oauth","oauth2","auth"],
     "type":"library",
     "license":"MIT",
